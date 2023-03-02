@@ -1,0 +1,5 @@
+gitbash_terminal################MONU-VIRT-DATA-PT-10-2022-U-LOLC (main)
+$ command "mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json"
+output "2023-02-24T16:06:47.213+1100    Failed: open establishments.json: The system cannot find the file specified.
+2023-02-24T16:06:47.213+1100    0 document(s) imported successfully. 0 document(s) failed to import".
+(PythonData)
